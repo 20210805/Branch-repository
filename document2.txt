@@ -1,4 +1,4 @@
-// C+ program for Merge Sort
+// Dept of cf hello hello
 #include <stdio.h>
 #include <stdlib.h>
 
