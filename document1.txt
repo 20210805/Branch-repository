@@ -1,5 +1,8 @@
 
-//hello
+
+//hello(컴퓨터공학과입니다)
+//컴퓨터공학과 (안녕)
+
 
 def partition(l, r, nums):
     # Last element will be the pivot and the first element the pointer
