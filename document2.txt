@@ -1,4 +1,9 @@
-// i want to go home hahahahahahahahah
+<<<<<<< HEAD
+// 안녕하세요?
+=======
+
+// 안녕하세요?
+>>>>>>> Branch2
 #include <stdio.h>
 #include <stdlib.h>
 
